@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="144二叉树的前序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="145后序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="94二叉树的中序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="102二叉树的层序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="107二叉树的层序遍历II.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="226翻转二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="589N叉树的前序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="590N叉树的后序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="199二叉树的右视图.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="637二叉树的层平均值.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="429N叉树的层序遍历.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="515在每个树行中找最大值.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="101对称二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="104二叉树的最大深度.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="111二叉树的最小深度.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="222完全二叉树的节点个数.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="110平衡二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="257二叉树的所有路径.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="100相同的树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="404左叶子之和.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="513找树左下角的值.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="112路径总和.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="113路径总和II.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="106从中序与后序遍历序列构造二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="654最大二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="617合并二叉树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="700二叉搜素树中的搜索.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="98验证二叉搜索树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="530二叉搜索树的最小绝对差.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="501二叉搜索树中的众树.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="236二叉树的最近的公共祖先.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+    <ClInclude Include="235二叉搜索树的最近公共祖先.hpp">
+      <Filter>源文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="米哈游.hpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="二叉树基础.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
